@@ -1,0 +1,11 @@
+user@user-B450M-S2H:~/project/os_linux$ history 
+    1  clear
+    2  cat > Pets
+    3  cat Pets 
+    4  cat > Pack_animals
+    5  cat  Pack_animals
+    6  cat Pets Pack_animals > petsPackAnimals
+    7  cat petsPackAnimals 
+    8  mv petsPackAnimals "Human Friends"
+    9  ls
+   10  history 
