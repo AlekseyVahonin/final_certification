@@ -1,0 +1,9 @@
+user@user-B450M-S2H:~/project/os_linux$ history
+    1  sudo apt update
+    2  sudo apt upgrade -y
+    3  sudo apt search mysql
+    4  sudo apt search mysql-server
+    5  sudo apt install mysql-server -y
+    6  sudo systemctl status mysql
+    7  mysql --version
+    8  history
