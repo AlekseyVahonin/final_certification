@@ -1,0 +1,6 @@
+user@user-B450M-S2H:~/project/os_linux$ history
+    1  sudo docker run --name mysql-container1 -v /home/user/project/bd/:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=12345678 -d mysql
+    2  sudo docker ps
+    3  docker exec -it mysql-container1 mysql -uroot -p
+    4  sudo docker exec -it mysql-container1 mysql -uroot -p
+    5  history

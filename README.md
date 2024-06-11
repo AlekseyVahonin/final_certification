@@ -42,6 +42,13 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 
 ![решение задания 2](./img/task_1_3.png)
 
+Или
+
+[История команд](./txt/task_1_3_v2.txt)
+
+![решение задания 2](./img/task_1_3_v2.png)
+
+
 4. Управление deb-пакетами
    - Установить и затем удалить deb-пакет, используя команду `dpkg`.
 
