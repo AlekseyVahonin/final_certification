@@ -1,0 +1,6 @@
+user@user-B450M-S2H:~/project/os_linux$ history
+    1  mv "Human Friends" humanFriends
+    2  mkdir AnimalsDirectory
+    3  mv humanFriends AnimalsDirectory/
+    4  ls AnimalsDirectory/
+    5  history

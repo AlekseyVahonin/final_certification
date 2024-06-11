@@ -27,6 +27,12 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 2. Работа с директориями в Linux
    - Создать новую директорию и переместить туда файл "Human Friends".
 
+### Решение:
+
+[История команд](./txt/task_1_2.txt)
+
+![решение задания 2](./img/task_1_2.png)
+
 3. Работа с MySQL в Linux. “Установить MySQL на вашу вычислительную машину ”
    - Подключить дополнительный репозиторий MySQL и установить один из пакетов из этого репозитория.
 
