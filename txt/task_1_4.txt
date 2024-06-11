@@ -1,0 +1,19 @@
+root@user-B450M-S2H:/etc/apt/sources.list.d# history 
+    1  history
+    2  wget https://download.virtualbox.org/virtualbox/7.0.18/virtualbox-7.0_7.0.18-162988~Ubuntu~jammy_amd64.deb
+    3  ll
+    4  dpkg -i virtualbox-7.0_7.0.18-162988~Ubuntu~jammy_amd64.deb
+    5  apt -f install
+    6  cd /etc/apt
+    7  ll
+    8  cd sources.list.d/
+    9  ll
+   10  cat > vb.list 
+   11  nano vb.list 
+   12  cat vb.list 
+   13  wget -O- https://www.virtualbox.org/download/oracle_vbox_2016.asc | sudo gpg --yes --output /usr/share/keyrings/oracle-virtualbox-2016.gpg --dearmor
+   14  apt update
+   15  dpkg -l virtualbox-7.0
+   16  dpkg --purge virtualbox-7.0
+   17  dpkg -l virtualbox-7.0
+   18  history 

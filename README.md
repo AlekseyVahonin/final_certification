@@ -52,5 +52,20 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 4. Управление deb-пакетами
    - Установить и затем удалить deb-пакет, используя команду `dpkg`.
 
+[История команд](./txt/task_1_4.txt)
+
+![решение задания 2](./img/task_1_4.png)
+
+
 5. История команд в терминале Ubuntu
    - Сохранить и выложить историю ваших терминальных команд в Ubuntu.
+
+[Использование команды cat в Linux](./txt/task_1_1.txt)
+
+[Работа с директориями в Linux](./txt/task_1_2.txt)
+
+[Работа с MySQL в Linux](./txt/task_1_1.txt)
+
+[Работа с MySQL в Linux(Docker)](./txt/task_1_3_v2.txt)
+
+[Управление deb-пакетами](./txt/task_1_4.txt)
